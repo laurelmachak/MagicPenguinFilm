@@ -7,6 +7,6 @@ he uses the powerful telescopes to look into the stars night after night.
 
 ## cast
 
-- Penguin: Steve Buscemi
-- Researcher: Nick Offerman
-- Astronomer: Uma Thurman
+- Penguin: Steve Buscemi (out of budget) : Alan Capt Rainbow
+- Researcher: Nick Offerman (in other film) : Sam Galizia
+- Astronomer: Uma Thurman (doesn't like the Synopsis) : Melody Yang
